@@ -1,0 +1,1 @@
+SELECT name, surname FROM new_schema.CUSTOMERS_EMPLOYEE;
