@@ -1,0 +1,1 @@
+SELECT * FROM new_schema.CUSTOMERS_EMPLOYEE;
