@@ -1,0 +1,1 @@
+select brand, model from importing_database.cars;
