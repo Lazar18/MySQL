@@ -1,0 +1,1 @@
+SELECT * FROM importing_database.cars;
